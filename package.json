@@ -1,0 +1,19 @@
+{
+  "name": "how-to-build",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^16.0.0",
+    "electron-builder": "^22.13.1"
+  }
+}
